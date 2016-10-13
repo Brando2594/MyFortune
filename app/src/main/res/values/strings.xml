@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FortuneTeller</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Enter a yes or no question!</string>
+    <string name="answer_text"></string>
+    <string name="get_answer">Shake device to get answer!</string>
+</resources>
